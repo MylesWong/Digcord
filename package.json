@@ -1,0 +1,17 @@
+{
+  "name": "digcord",
+  "version": "1.0.0",
+  "description": "Digcord project made by Farly. Project was abandoned due to how the screen functioned. There were major problems due to Discord's rate limiting, so animating an actual game is not possible without major lag and potential bans.",
+  "main": "index.js",
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "discord.js": "^12.3.1",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farly",
+  "license": "ISC"
+}
